@@ -48,5 +48,3 @@ At the bottom of the page, you can compare all the services according to charges
 #### In compare page, you can compare the providers.
 
 <img src="screenshots/compare.png" width=400>  <img src="screenshots/compare_table.png" width=400>
-
-## License
